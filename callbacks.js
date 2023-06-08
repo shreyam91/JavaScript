@@ -33,7 +33,7 @@ function hello(src){
 //function hello(error , src){
     //if(error){
        // console.log("Error: ");
-        //sendEmergencyMessageToCeo();
+        //sendEmergencyMessageToCeo(); //function.
        // return
     //}
   //  alert("Hello" + src);
