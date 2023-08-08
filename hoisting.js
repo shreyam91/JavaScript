@@ -13,3 +13,4 @@ console.log(a) // output is value of a
 console.log(b) // output is error message (Cannot access 'b' before initialization)
 let b = 7  // let & const throw an error
 console.log(b) // output is 7
+

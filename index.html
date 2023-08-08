@@ -43,6 +43,21 @@
     </div>
 
     
-<script src="script.js"></script>
+<!-- <script src="script.js"></script> -->
+
+<button onclick="myFunction()"> Try It</button>
+<p id ="demo"></p>
+<script>
+    function myFunction() {
+    let text;
+    let name = prompt("what is your favorite actor?");
+    if(name == null || name == ""){
+        text = "User cancelled";
+    }else{
+        text = 'hello' + name;
+    }
+    document.getElementById("demo").innerHTML = text;
+    }
+</script>
 </body>
 </html>
