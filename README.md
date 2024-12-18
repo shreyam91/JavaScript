@@ -7,7 +7,6 @@ Welcome to the **JavaScript Code Repository**! This repository contains a collec
 - [Overview](#overview)
 - [Getting Started](#getting-started)
 - [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
